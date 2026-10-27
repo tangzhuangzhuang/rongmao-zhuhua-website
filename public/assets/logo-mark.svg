@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 215 233" width="215" height="233" role="img" aria-label="荣茂竹华 标志">
+  <title>荣茂竹华 标志</title>
+  <desc>七根错落排列的竹节构成主体，两侧各两片竹叶，采用扁平化与渐变光影的极简设计。</desc>
+  <defs>
+    <linearGradient id="rbBamboo" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#12A06B"/><stop offset=".3" stop-color="#1AB679"/><stop offset=".7" stop-color="#3FC492"/><stop offset="1" stop-color="#79D8B2"/></linearGradient>
+  </defs>
+
+  <g fill="url(#rbBamboo)">
+    <rect x="54"  y="41"  width="23" height="68" rx="11.5"/>
+    <rect x="54"  y="123" width="23" height="68" rx="11.5"/>
+    <rect x="96"  y="0"   width="23" height="68" rx="11.5"/>
+    <rect x="96"  y="82"  width="23" height="68" rx="11.5"/>
+    <rect x="96"  y="164" width="23" height="68" rx="11.5"/>
+    <rect x="138" y="41"  width="23" height="68" rx="11.5"/>
+    <rect x="138" y="123" width="23" height="68" rx="11.5"/>
+  </g>
+
+  <g fill="#1AB679">
+    <path d="M0 110 C14 103 36 111 52 123 C30 125 11 120 0 110 Z"/>
+    <path d="M31 90 C40 96 46 105 48 116 C42 112 33 101 31 90 Z"/>
+    <path d="M215 110 C201 103 179 111 163 123 C185 125 204 120 215 110 Z"/>
+    <path d="M184 90 C175 96 169 105 167 116 C173 112 182 101 184 90 Z"/>
+  </g>
+</svg>
